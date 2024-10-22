@@ -16,4 +16,6 @@ This repository contains a simple C# Hello World console application. It include
 - `Program.cs`: The main source code file prints "Hello, World!" to the console.
 - `README.md`: This documentation file.
 
-
+## Docker Image Instruction:
+docker pull asthasuthar/mid_ci-cd_astha:003
+docker run asthasuthar/mid_ci-cd_astha:003
