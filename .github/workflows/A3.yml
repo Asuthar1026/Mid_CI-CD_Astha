@@ -22,10 +22,10 @@ jobs:
           dotnet-version: '7.x'
  
       - name: Restore dependencies
-        run: dotnet restore ./Mid_CI-CD_Astha/Mid_HelloWorld.csproj
+        run: dotnet restore ./Mid_HelloWorld.csproj
  
       - name: Build application
-        run: dotnet build ./Mid_CI-CD_Astha/Mid_HelloWorld.csproj --no-restore --configuration Release
+        run: dotnet build ./Mid_HelloWorld.csproj --no-restore --configuration Release
  
   test:
     runs-on: ubuntu-latest
