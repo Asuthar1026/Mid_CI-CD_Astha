@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/4wA+EUIiw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khush\\source\\repos\\Mid_HelloWorld\\Mid_CI-CD_Astha\\Mid_HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khush\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\khush\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\khush\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

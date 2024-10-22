@@ -1,0 +1,14 @@
+C:\Users\khush\source\repos\Mid_HelloWorld\bin\Debug\net8.0\Mid_HelloWorld.exe
+C:\Users\khush\source\repos\Mid_HelloWorld\bin\Debug\net8.0\Mid_HelloWorld.deps.json
+C:\Users\khush\source\repos\Mid_HelloWorld\bin\Debug\net8.0\Mid_HelloWorld.runtimeconfig.json
+C:\Users\khush\source\repos\Mid_HelloWorld\bin\Debug\net8.0\Mid_HelloWorld.dll
+C:\Users\khush\source\repos\Mid_HelloWorld\bin\Debug\net8.0\Mid_HelloWorld.pdb
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.AssemblyInfo.cs
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.dll
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\refint\Mid_HelloWorld.dll
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.pdb
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\Mid_HelloWorld.genruntimeconfig.cache
+C:\Users\khush\source\repos\Mid_HelloWorld\obj\Debug\net8.0\ref\Mid_HelloWorld.dll
